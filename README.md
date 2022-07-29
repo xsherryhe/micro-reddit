@@ -1,24 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a collection of back-end database structures and models needed to imitate some of [Reddit](https://www.reddit.com/)'s most basic functions, namely link submissions and commenting. It is built using Ruby on Rails.
 
-Things you may want to cover:
+The project demonstrates basic use of Active Record models in Rails, including CRUD commands, database structuring, data model associations, database setup and migrations, and model-level validations.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is currently in progress.
