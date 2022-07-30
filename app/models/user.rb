@@ -14,4 +14,5 @@ class User < ApplicationRecord
                                  message: 'must contain at least 1 digit' },
                        format: { with: /.*[^\w].*/,
                                  message: 'must contain at least 1 symbol' }
+  has_many :posts
 end
