@@ -15,4 +15,5 @@ class User < ApplicationRecord
                        format: { with: /.*[^\w].*/,
                                  message: 'must contain at least 1 symbol' }
   has_many :posts
+  has_many :comments
 end

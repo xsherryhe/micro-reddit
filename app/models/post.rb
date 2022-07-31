@@ -5,4 +5,5 @@ class Post < ApplicationRecord
                        format: { with: /\Ahttps?:\/\//,
                                  message: 'must be a valid URL' }
   belongs_to :user
+  has_many :comments
 end
