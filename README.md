@@ -1,3 +1,6 @@
+# Micro-Reddit
+
+## Introduction
 
 This project is a collection of back-end database structures and models needed to imitate some of [Reddit](https://www.reddit.com/)'s most basic functions, namely link submissions and commenting. It is built using Ruby on Rails.
 
